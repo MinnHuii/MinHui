@@ -28,7 +28,8 @@ body {
 
 .logo{
     position:absolute;
-    width: 500px;
+    width: 50px;
+    /* fill: #000; */
 }
 
 .fixed {
