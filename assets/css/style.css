@@ -28,8 +28,7 @@ body {
 
 .logo{
     position:absolute;
-    width: 250px;
-    /* fill: #000; */
+    width: 75px;
 }
 
 .fixed {
@@ -143,7 +142,7 @@ nav ul li a:hover {
 }
 
 #content .home_blob .blob .blob_img {
-    width: 100px;
+    width: 210px;
 }
 
 .vspacer {
